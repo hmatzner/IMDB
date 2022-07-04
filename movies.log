@@ -1,0 +1,251 @@
+2022-07-04 19:50:22,328-INFO-FILE:IMDB.py-FUNC:get_urls-LINE:33-The request has succeeded
+2022-07-04 19:51:15,843-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 1. 'The Shawshank Redemption' was successful
+2022-07-04 19:51:16,142-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 2. 'The Godfather' was successful
+2022-07-04 19:51:16,447-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 3. 'The Dark Knight' was successful
+2022-07-04 19:51:16,856-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 4. 'The Godfather Part II' was successful
+2022-07-04 19:51:17,114-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 5. 'שנים עשר המושבעים' was successful
+2022-07-04 19:51:17,386-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 6. 'Schindler's List' was successful
+2022-07-04 19:51:17,682-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 7. 'The Lord of the Rings: The Return of the King' was successful
+2022-07-04 19:51:17,968-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 8. 'Pulp Fiction' was successful
+2022-07-04 19:51:18,318-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 9. 'The Lord of the Rings: The Fellowship of the Ring' was successful
+2022-07-04 19:51:18,575-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 10. 'The Good, the Bad and the Ugly' was successful
+2022-07-04 19:51:18,868-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 11. 'Forrest Gump' was successful
+2022-07-04 19:51:19,156-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 12. 'Fight Club' was successful
+2022-07-04 19:51:19,450-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 13. 'Inception' was successful
+2022-07-04 19:51:19,760-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 14. 'The Lord of the Rings: The Two Towers' was successful
+2022-07-04 19:51:20,151-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 15. 'The Empire Strikes Back' was successful
+2022-07-04 19:51:20,437-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 16. 'The Matrix' was successful
+2022-07-04 19:51:20,747-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 17. 'Goodfellas' was successful
+2022-07-04 19:51:21,039-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 18. 'One Flew Over the Cuckoo's Nest' was successful
+2022-07-04 19:51:21,329-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 19. 'Se7en' was successful
+2022-07-04 19:51:21,696-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 20. 'Shichinin no samurai' was successful
+2022-07-04 19:51:21,984-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 21. 'It's a Wonderful Life' was successful
+2022-07-04 19:51:22,270-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 22. 'The Silence of the Lambs' was successful
+2022-07-04 19:51:22,553-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 23. 'Cidade de Deus' was successful
+2022-07-04 19:51:22,849-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 24. 'Saving Private Ryan' was successful
+2022-07-04 19:51:23,261-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 25. 'החיים יפים' was successful
+2022-07-04 19:51:23,606-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 26. 'The Green Mile' was successful
+2022-07-04 19:51:23,945-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 27. 'Interstellar' was successful
+2022-07-04 19:51:24,377-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 28. 'Star Wars' was successful
+2022-07-04 19:51:24,775-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 29. 'Terminator 2: Judgment Day' was successful
+2022-07-04 19:51:25,222-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 30. 'Back to the Future' was successful
+2022-07-04 19:51:25,793-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 31. 'The Wonderful Journey' was successful
+2022-07-04 19:51:26,126-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 32. 'Psycho' was successful
+2022-07-04 19:51:26,628-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 33. 'The Pianist' was successful
+2022-07-04 19:51:27,069-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 34. 'Léon' was successful
+2022-07-04 19:51:27,608-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 35. 'Gisaengchung' was successful
+2022-07-04 19:51:28,211-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 36. 'The Lion King' was successful
+2022-07-04 19:51:28,717-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 37. 'Gladiator' was successful
+2022-07-04 19:51:29,127-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 38. 'American History X' was successful
+2022-07-04 19:51:29,465-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 39. 'The Usual Suspects' was successful
+2022-07-04 19:51:29,903-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 40. 'The Departed' was successful
+2022-07-04 19:51:30,399-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 41. 'The Prestige' was successful
+2022-07-04 19:51:30,693-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 42. 'Casablanca' was successful
+2022-07-04 19:51:30,954-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 43. 'Whiplash' was successful
+2022-07-04 19:51:31,242-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 44. 'Top Gun: Maverick' was successful
+2022-07-04 19:51:31,515-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 45. 'Intouchables' was successful
+2022-07-04 19:51:31,782-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 46. 'Modern Times' was successful
+2022-07-04 19:51:32,112-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 47. 'Seppuku' was successful
+2022-07-04 19:51:32,394-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 48. 'Hotaru no haka' was successful
+2022-07-04 19:51:32,672-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 49. 'C'era una volta il West' was successful
+2022-07-04 19:51:32,932-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 50. 'Rear Window' was successful
+2022-07-04 19:51:33,215-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 51. 'Alien' was successful
+2022-07-04 19:51:33,534-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 52. 'City Lights' was successful
+2022-07-04 19:51:33,798-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 53. 'Nuovo Cinema Paradiso' was successful
+2022-07-04 19:51:34,053-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 54. 'Memento' was successful
+2022-07-04 19:51:34,327-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 55. 'Apocalypse Now' was successful
+2022-07-04 19:51:34,620-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 56. 'Raiders of the Lost Ark' was successful
+2022-07-04 19:51:34,905-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 57. 'Django Unchained' was successful
+2022-07-04 19:51:35,282-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 58. 'WALL·E' was successful
+2022-07-04 19:51:35,554-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 59. 'Das Leben der Anderen' was successful
+2022-07-04 19:51:35,810-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 60. 'Sunset Blvd.' was successful
+2022-07-04 19:51:36,073-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 61. 'Paths of Glory' was successful
+2022-07-04 19:51:36,354-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 62. 'The Shining' was successful
+2022-07-04 19:51:36,671-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 63. 'The Great Dictator' was successful
+2022-07-04 19:51:37,008-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 64. 'Witness for the Prosecution' was successful
+2022-07-04 19:51:37,526-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 65. 'Avengers: Infinity War' was successful
+2022-07-04 19:51:37,946-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 66. 'Alien 2' was successful
+2022-07-04 19:51:38,243-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 67. 'American Beauty' was successful
+2022-07-04 19:51:38,610-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 68. 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb' was successful
+2022-07-04 19:51:39,027-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 69. 'Spider-Man: Into the Spider-Verse' was successful
+2022-07-04 19:51:39,361-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 70. 'The Dark Knight Rises' was successful
+2022-07-04 19:51:39,654-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 71. 'Oldeuboi' was successful
+2022-07-04 19:51:39,942-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 72. 'Joker' was successful
+2022-07-04 19:51:40,221-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 73. 'Amadeus' was successful
+2022-07-04 19:51:40,556-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 74. 'Braveheart' was successful
+2022-07-04 19:51:40,835-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 75. 'Toy Story' was successful
+2022-07-04 19:51:41,113-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 76. 'Coco' was successful
+2022-07-04 19:51:41,384-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 77. 'Das Boot' was successful
+2022-07-04 19:51:41,690-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 78. 'Inglourious Basterds' was successful
+2022-07-04 19:51:42,121-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 79. 'Mononoke-hime' was successful
+2022-07-04 19:51:42,461-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 80. 'Avengers: Endgame' was successful
+2022-07-04 19:51:42,759-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 81. 'Once Upon a Time in America' was successful
+2022-07-04 19:51:43,052-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 82. 'Good Will Hunting' was successful
+2022-07-04 19:51:43,353-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 83. 'Toy Story 3' was successful
+2022-07-04 19:51:43,711-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 84. 'Requiem for a Dream' was successful
+2022-07-04 19:51:44,009-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 85. 'Kimi no na wa.' was successful
+2022-07-04 19:51:44,301-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 86. 'Singin' in the Rain' was successful
+2022-07-04 19:51:44,629-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 87. '3 Idiots' was successful
+2022-07-04 19:51:44,966-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 88. 'Star Wars: Episode VI - Return of the Jedi' was successful
+2022-07-04 19:51:45,246-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 89. '2001: A Space Odyssey' was successful
+2022-07-04 19:51:45,588-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 90. 'Eternal Sunshine of the Spotless Mind' was successful
+2022-07-04 19:51:45,894-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 91. 'Reservoir Dogs' was successful
+2022-07-04 19:51:46,146-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 92. 'Tengoku to jigoku' was successful
+2022-07-04 19:51:46,413-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 93. 'Capharnaüm' was successful
+2022-07-04 19:51:46,694-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 94. 'Citizen Kane' was successful
+2022-07-04 19:51:47,033-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 95. 'Lawrence of Arabia' was successful
+2022-07-04 19:51:47,386-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 96. 'Jagten' was successful
+2022-07-04 19:51:47,786-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 97. 'M - Eine Stadt sucht einen Mörder' was successful
+2022-07-04 19:51:48,094-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 98. 'North by Northwest' was successful
+2022-07-04 19:51:48,477-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 99. 'Vertigo' was successful
+2022-07-04 19:51:48,788-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 100. 'Le fabuleux destin d'Amélie Poulain' was successful
+2022-07-04 19:51:49,164-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 101. 'A Clockwork Orange' was successful
+2022-07-04 19:51:49,456-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 102. 'Idi i smotri' was successful
+2022-07-04 19:51:49,785-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 103. 'Full Metal Jacket' was successful
+2022-07-04 19:51:50,153-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 104. 'Double Indemnity' was successful
+2022-07-04 19:51:50,489-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 105. 'The Apartment' was successful
+2022-07-04 19:51:50,856-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 106. 'Scarface' was successful
+2022-07-04 19:51:51,125-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 107. 'Ikiru' was successful
+2022-07-04 19:51:51,390-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 108. 'The Sting' was successful
+2022-07-04 19:51:51,681-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 109. 'To Kill a Mockingbird' was successful
+2022-07-04 19:51:51,948-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 110. 'Taxi Driver' was successful
+2022-07-04 19:51:52,216-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 111. 'L.A. Confidential' was successful
+2022-07-04 19:51:52,591-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 112. 'Up' was successful
+2022-07-04 19:51:52,874-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 113. 'היט' was successful
+2022-07-04 19:51:53,151-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 114. 'Metropolis' was successful
+2022-07-04 19:51:53,418-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 115. 'המילטון' was successful
+2022-07-04 19:51:53,700-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 116. 'Jodaeiye Nader az Simin' was successful
+2022-07-04 19:51:54,042-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 117. 'Snatch' was successful
+2022-07-04 19:51:54,315-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 118. 'מת לחיות' was successful
+2022-07-04 19:51:54,579-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 119. 'Incendies' was successful
+2022-07-04 19:51:54,842-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 120. 'Indiana Jones and the Last Crusade' was successful
+2022-07-04 19:51:55,106-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 121. 'Ladri di biciclette' was successful
+2022-07-04 19:51:55,383-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 122. '1917' was successful
+2022-07-04 19:51:55,705-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 123. 'Taare Zameen Par' was successful
+2022-07-04 19:51:55,984-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 124. 'Spider-Man: No Way Home' was successful
+2022-07-04 19:51:56,249-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 125. 'Der Untergang' was successful
+2022-07-04 19:51:56,522-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 126. 'Per qualche dollaro in più' was successful
+2022-07-04 19:51:56,808-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 127. 'Batman Begins' was successful
+2022-07-04 19:51:57,135-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 128. 'Dangal' was successful
+2022-07-04 19:51:57,379-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 129. 'The Kid' was successful
+2022-07-04 19:51:57,661-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 130. 'Some Like It Hot' was successful
+2022-07-04 19:51:57,937-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 131. 'The Father' was successful
+2022-07-04 19:51:58,218-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 132. 'All About Eve' was successful
+2022-07-04 19:51:58,504-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 133. 'Green Book' was successful
+2022-07-04 19:51:58,878-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 134. 'The Wolf of Wall Street' was successful
+2022-07-04 19:51:59,153-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 135. 'Judgment at Nuremberg' was successful
+2022-07-04 19:51:59,420-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 136. 'Unforgiven' was successful
+2022-07-04 19:51:59,695-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 137. 'Ran' was successful
+2022-07-04 19:51:59,961-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 138. 'Casino' was successful
+2022-07-04 19:52:00,295-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 139. 'El laberinto del fauno' was successful
+2022-07-04 19:52:00,559-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 140. 'There Will Be Blood' was successful
+2022-07-04 19:52:00,829-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 141. 'The Sixth Sense' was successful
+2022-07-04 19:52:01,095-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 142. 'Everything Everywhere All at Once' was successful
+2022-07-04 19:52:01,374-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 143. 'A Beautiful Mind' was successful
+2022-07-04 19:52:01,730-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 144. 'Monty Python and the Holy Grail' was successful
+2022-07-04 19:52:01,996-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 145. 'The Truman Show' was successful
+2022-07-04 19:52:02,252-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 146. 'Yôjinbô' was successful
+2022-07-04 19:52:02,508-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 147. 'The Treasure of the Sierra Madre' was successful
+2022-07-04 19:52:02,791-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 148. 'Shutter Island' was successful
+2022-07-04 19:52:03,038-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 149. 'Rashômon' was successful
+2022-07-04 19:52:03,392-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 150. 'Jurassic Park' was successful
+2022-07-04 19:52:03,656-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 151. 'The Great Escape' was successful
+2022-07-04 19:52:03,930-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 152. 'Kill Bill: Vol. 1' was successful
+2022-07-04 19:52:04,215-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 153. 'No Country for Old Men' was successful
+2022-07-04 19:52:04,489-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 154. 'Finding Nemo' was successful
+2022-07-04 19:52:04,815-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 155. 'The Elephant Man' was successful
+2022-07-04 19:52:05,088-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 156. 'Chinatown' was successful
+2022-07-04 19:52:05,360-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 157. 'Raging Bull' was successful
+2022-07-04 19:52:05,650-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 158. 'Gone with the Wind' was successful
+2022-07-04 19:52:05,929-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 159. 'V for Vendetta' was successful
+2022-07-04 19:52:06,203-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 160. 'The Thing' was successful
+2022-07-04 19:52:06,551-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 161. 'Inside Out' was successful
+2022-07-04 19:52:06,829-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 162. 'Lock, Stock and Two Smoking Barrels' was successful
+2022-07-04 19:52:07,111-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 163. 'Dial M for Murder' was successful
+2022-07-04 19:52:07,385-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 164. 'El secreto de sus ojos' was successful
+2022-07-04 19:52:07,670-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 165. 'Hauru no ugoku shiro' was successful
+2022-07-04 19:52:08,014-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 166. 'The Bridge on the River Kwai' was successful
+2022-07-04 19:52:08,286-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 167. 'Three Billboards Outside Ebbing, Missouri' was successful
+2022-07-04 19:52:08,543-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 168. 'Trainspotting' was successful
+2022-07-04 19:52:08,806-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 169. 'Warrior' was successful
+2022-07-04 19:52:09,073-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 170. 'Gran Torino' was successful
+2022-07-04 19:52:09,367-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 171. 'Fargo' was successful
+2022-07-04 19:52:09,709-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 172. 'Prisoners' was successful
+2022-07-04 19:52:09,971-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 173. 'Tonari no Totoro' was successful
+2022-07-04 19:52:10,234-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 174. 'Million Dollar Baby' was successful
+2022-07-04 19:52:10,496-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 175. 'The Gold Rush' was successful
+2022-07-04 19:52:10,794-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 176. 'Blade Runner' was successful
+2022-07-04 19:52:11,146-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 177. 'Catch Me If You Can' was successful
+2022-07-04 19:52:11,425-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 178. 'On the Waterfront' was successful
+2022-07-04 19:52:11,703-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 179. 'The Third Man' was successful
+2022-07-04 19:52:11,952-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 180. 'Bacheha-Ye aseman' was successful
+2022-07-04 19:52:12,225-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 181. 'Ben-Hur' was successful
+2022-07-04 19:52:12,568-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 182. '12 Years a Slave' was successful
+2022-07-04 19:52:12,828-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 183. 'The General' was successful
+2022-07-04 19:52:13,074-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 184. 'Smultronstället' was successful
+2022-07-04 19:52:13,341-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 185. 'Gone Girl' was successful
+2022-07-04 19:52:13,599-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 186. 'Before Sunrise' was successful
+2022-07-04 19:52:13,878-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 187. 'Harry Potter and the Deathly Hallows: Part 2' was successful
+2022-07-04 19:52:14,226-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 188. 'The Deer Hunter' was successful
+2022-07-04 19:52:14,488-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 189. 'In the Name of the Father' was successful
+2022-07-04 19:52:14,773-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 190. 'The Grand Budapest Hotel' was successful
+2022-07-04 19:52:15,035-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 191. 'Mr. Smith Goes to Washington' was successful
+2022-07-04 19:52:15,294-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 192. 'Le salaire de la peur' was successful
+2022-07-04 19:52:15,557-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 193. 'Barry Lyndon' was successful
+2022-07-04 19:52:15,872-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 194. 'Sherlock Jr.' was successful
+2022-07-04 19:52:16,132-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 195. 'Salinui chueok' was successful
+2022-07-04 19:52:16,397-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 196. 'Klaus' was successful
+2022-07-04 19:52:16,676-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 197. 'Hacksaw Ridge' was successful
+2022-07-04 19:52:16,954-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 198. 'Room' was successful
+2022-07-04 19:52:17,265-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 199. 'Det sjunde inseglet' was successful
+2022-07-04 19:52:17,546-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 200. 'Relatos salvajes' was successful
+2022-07-04 19:52:17,807-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 201. 'ביג לבובסקי' was successful
+2022-07-04 19:52:18,106-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 202. 'Mad Max: Fury Road' was successful
+2022-07-04 19:52:18,402-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 203. 'How to Train Your Dragon' was successful
+2022-07-04 19:52:18,738-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 204. 'Mary and Max.' was successful
+2022-07-04 19:52:19,016-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 205. 'Monsters, Inc.' was successful
+2022-07-04 19:52:19,307-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 206. 'Jaws' was successful
+2022-07-04 19:52:19,564-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 207. 'La passion de Jeanne d'Arc' was successful
+2022-07-04 19:52:19,833-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 208. 'Hotel Rwanda' was successful
+2022-07-04 19:52:20,101-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 209. 'Dead Poets Society' was successful
+2022-07-04 19:52:20,424-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 210. 'Tôkyô monogatari' was successful
+2022-07-04 19:52:20,676-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 211. 'Pather Panchali' was successful
+2022-07-04 19:52:20,944-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 212. 'רוקי' was successful
+2022-07-04 19:52:21,208-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 213. 'Platoon' was successful
+2022-07-04 19:52:21,484-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 214. 'Ford v Ferrari' was successful
+2022-07-04 19:52:21,827-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 215. 'Stand by Me' was successful
+2022-07-04 19:52:22,098-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 216. 'שליחות קטלנית' was successful
+2022-07-04 19:52:22,360-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 217. 'Spotlight' was successful
+2022-07-04 19:52:22,621-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 218. 'Rush' was successful
+2022-07-04 19:52:22,890-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 219. 'Network' was successful
+2022-07-04 19:52:23,195-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 220. 'עד קצה העולם' was successful
+2022-07-04 19:52:23,569-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 221. 'Logan' was successful
+2022-07-04 19:52:23,897-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 222. 'The Wizard of Oz' was successful
+2022-07-04 19:52:24,180-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 223. 'Ratatouille' was successful
+2022-07-04 19:52:24,442-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 224. 'Groundhog Day' was successful
+2022-07-04 19:52:24,701-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 225. 'Before Sunset' was successful
+2022-07-04 19:52:25,050-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 226. 'The Exorcist' was successful
+2022-07-04 19:52:25,323-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 227. 'The Best Years of Our Lives' was successful
+2022-07-04 19:52:25,617-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 228. 'The Incredibles' was successful
+2022-07-04 19:52:25,863-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 229. 'To Be or Not to Be' was successful
+2022-07-04 19:52:26,114-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 230. 'La battaglia di Algeri' was successful
+2022-07-04 19:52:26,381-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 231. 'Rebecca' was successful
+2022-07-04 19:52:26,716-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 232. 'The Grapes of Wrath' was successful
+2022-07-04 19:52:26,971-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 233. 'Hachi: A Dog's Tale' was successful
+2022-07-04 19:52:27,225-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 234. 'Cool Hand Luke' was successful
+2022-07-04 19:52:27,489-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 235. 'Amores perros' was successful
+2022-07-04 19:52:27,775-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 236. 'Pirates of the Caribbean: The Curse of the Black Pearl' was successful
+2022-07-04 19:52:28,106-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 237. 'La haine' was successful
+2022-07-04 19:52:28,364-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 238. 'Les quatre cents coups' was successful
+2022-07-04 19:52:28,600-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 239. 'Persona' was successful
+2022-07-04 19:52:28,842-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 240. 'Babam ve Oglum' was successful
+2022-07-04 19:52:29,108-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 241. 'Life of Brian' was successful
+2022-07-04 19:52:29,377-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 242. 'It Happened One Night' was successful
+2022-07-04 19:52:29,726-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 243. 'The Sound of Music' was successful
+2022-07-04 19:52:29,970-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 244. 'Dersu Uzala' was successful
+2022-07-04 19:52:30,241-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 245. 'Ah-ga-ssi' was successful
+2022-07-04 19:52:30,538-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 246. 'Aladdin' was successful
+2022-07-04 19:52:30,813-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 247. 'Gandhi' was successful
+2022-07-04 19:52:31,066-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 248. 'Jai Bhim' was successful
+2022-07-04 19:52:31,412-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 249. 'The Help' was successful
+2022-07-04 19:52:31,716-INFO-FILE:IMDB.py-FUNC:print_data-LINE:74-The request for movie 250. 'Beauty and the Beast' was successful
