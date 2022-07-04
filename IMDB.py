@@ -16,14 +16,17 @@ def get_urls(url):
     @return:
     """
     r = requests.get(url)
-    print(r)
+    if r:
+        print(True)
+        logger.info('The request has succeeded')
+    else:
+        logging.warning('The request was not successful')
     html = r.text
     soup = BeautifulSoup(html, 'html.parser')
     scraped_movies = soup.find_all('td', {'class': 'titleColumn'})
     urls = (conf.WEBSITE + movie.find('a')['href'] for movie in scraped_movies)
     return urls
 
-# + conf.URLS_END_LINK
 
 def get_data_requests(urls):
     resp = (requests.get(url) for url in urls)
@@ -48,6 +51,7 @@ def print_data(resp):
     @return:
     """
     for i, r in enumerate(resp, 1):
+        # hacer log aca
         soup = BeautifulSoup(r.text, 'html.parser')
         movie = soup.find('h1').get_text()
 
